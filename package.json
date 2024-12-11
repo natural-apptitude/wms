@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "@mapbox/sphericalmercator": "^1.0.5",
+    "@mapnik/mapnik": "^4.6.5",
     "bluebird": "^2.9.34",
     "d3-queue": "^3.0.7",
     "handlebars": "^4.0.0",
     "lru-cache": "^2.6.5",
-    "mapnik": "^4.2.1",
     "mime": "^1.3.4"
   },
   "repository": {
@@ -22,8 +22,8 @@
     "url": "git@github.com:AppGeo/wms.git"
   },
   "devDependencies": {
+    "babel-eslint": "^7.2.3",
     "eslint": "^4.1.1",
-    "tape": "^4.1.0",
-    "babel-eslint": "^7.2.3"
+    "tape": "^4.1.0"
   }
 }
